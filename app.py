@@ -257,7 +257,7 @@ HTML_TEMPLATE = '''
                                 <input type="text" class="form-control" id="name" required>
                             </div>
                             <div class="mb-3">
-                                <label class="form-label">Grade</label>
+                                <label class="form-label">Year</label>
                                 <input type="number" class="form-control" id="grade" min="1" max="12" required>
                             </div>
                             <div class="mb-3">
